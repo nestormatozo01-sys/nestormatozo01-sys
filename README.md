@@ -1,5 +1,5 @@
 <div aling="center"> 
-<h1 aling="center">Estás en el github de Nestor matozo</h1>
+<h1 aling="center">Nestor Matozo</h1>
 </div>
 
 <p align="center">
